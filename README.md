@@ -12,12 +12,9 @@ Etwas hinzuzufügen oder zu ändern? Öffne einen [Pull Request](../../pulls) od
 
 - [APIs & Datenquellen](#apis--datenquellen)
 - [Parlamentarische Dokumente](#parlamentarische-dokumente)
-- [Abstimmungen & Analysen](#abstimmungen--analysen)
 - [Abgeordnete](#abgeordnete)
-- [Ausschüsse & Verfahren](#ausschüsse--verfahren)
 - [Visualisierungen & Tools](#visualisierungen--tools)
 - [Wahlen](#wahlen)
-- [Forschung & Analyse](#forschung--analyse)
 
 ------------------------------
 
@@ -37,23 +34,11 @@ Zugang zu Plenarprotokollen, Drucksachen und anderen parlamentarischen Dokumente
 
 ------------------------------
 
-## Abstimmungen & Analysen
-
-Demnächst verfügbar...
-
-------------------------------
-
 ## Abgeordnete
 
 Profile, Abstimmungsverhalten und Kontaktmöglichkeiten zu Bundestagsabgeordneten.
 
 - 💬 [Abgeordnetenwatch](https://www.abgeordnetenwatch.de/) - Überparteiliche Plattform zum öffentlichen Befragen von Bundestagsabgeordneten. Zeigt Profile, Ausschussmitgliedschaften, Nebentätigkeiten und Abstimmungsverhalten sowie Recherchen zu Lobbyismus und Parteispenden. Träger ist der gemeinnützige Verein Parlamentwatch e.V.
-
-------------------------------
-
-## Ausschüsse & Verfahren
-
-Demnächst verfügbar...
 
 ------------------------------
 
@@ -74,12 +59,6 @@ Ressourcen, Daten und Tools zu Bundestagswahlen.
 
 - 📊 [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/) - Offizielle Website der Bundeswahlleiterin mit Informationen zu Bundestagswahlen und Europawahlen. Organisiert und überwacht alle politischen Wahlen auf Bundesebene und stellt umfassende Wahlergebnisse, Statistiken und rechtliche Grundlagen bereit. Das Amt wird traditionell vom Präsidenten des Statistischen Bundesamtes ausgeübt.
 - 🗳️ [Linksammlungen zu Bundestagswahlen](https://github.com/tifa365/linksammlungen_bundestagswahlen) - Kuratierte Linksammlungen zu deutschen Bundestagswahlen mit Informationen, Daten, Tools und Ressourcen für Wähler, Journalisten und Datenanalysten. Enthält umfassende Sammlung zur Bundestagswahl 2025 mit Kategorien zu Wahlsystemen, Kandidaten, Umfragen und Analysetools.
-
-------------------------------
-
-## Forschung & Analyse
-
-Demnächst verfügbar...
 
 ------------------------------
 
