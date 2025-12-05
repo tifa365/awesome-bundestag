@@ -15,7 +15,7 @@ Etwas hinzuzufügen oder zu ändern? Öffne einen [Pull Request](../../pulls) od
 - [Abgeordnete](#abgeordnete)
 - [Visualisierungen & Tools](#visualisierungen--tools)
 - [Wahlen](#wahlen)
-- [Archiv 💤](ARCHIVE.md)
+- [Archiv](ARCHIVE.md)
 
 ------------------------------
 
@@ -23,10 +23,10 @@ Etwas hinzuzufügen oder zu ändern? Öffne einen [Pull Request](../../pulls) od
 
 APIs und Schnittstellen für den programmgesteuerten Zugriff auf Bundestag-Daten.
 
-- 📂 [Bundestag Open Data](https://www.bundestag.de/services/opendata) - Offizielle Open-Data-Plattform des Bundestags mit Plenarprotokollen und Drucksachen ab der 1. Wahlperiode als XML/JSON, Biografiedaten aller Abgeordneten seit 1949 und Abstimmungslisten namentlicher Abstimmungen als Excel-Dateien.
-- 🔌 [DIP-API](https://dip.bundestag.de/%C3%BCber-dip/hilfe/api) - Offizielle API des Dokumentations- und Informationssystems für Parlamentsmaterialien (DIP). Lesender Zugriff auf Vorgänge, Aktivitäten, Personen, Drucksachen und Plenarprotokolle.
-- 📅 [BT-TO API](https://github.com/hutt/bt-to) - Cloudflare Worker, der die Tagesordnung des Bundestags von der Website abruft und als iCal-Feed und API bereitstellt. Löst das Problem, dass der Bundestag seine Tagesordnung nicht in maschinenlesbarem Format anbietet und ermöglicht Abgeordnetenbüros automatische Kalenderintegration.
-- 🇩🇪 [bund.dev](https://bund.dev/) - API-Portal des Bundes mit Dokumentationen zu über 30 Programmierschnittstellen von Verwaltungsleistungen und Informationsportalen. Dokumentationen im OpenAPI-3-Format, maschinen- und menschenlesbar. Zivilgesellschaftliches Beteiligungsverfahren ermöglicht aktive Mitarbeit. Verfügbar auf [GitHub](https://github.com/bundesAPI).
+- 📂 [Bundestag Open Data](https://www.bundestag.de/services/opendata) - Offizielle Open-Data-Plattform mit Plenarprotokollen, Drucksachen (XML/JSON), Biografiedaten und Abstimmungslisten.
+- 🔌 [DIP-API](https://dip.bundestag.de/%C3%BCber-dip/hilfe/api) - Offizielle API für Parlamentsmaterialien mit Zugriff auf Vorgänge, Drucksachen und Plenarprotokolle.
+- 📅 [BT-TO API](https://github.com/hutt/bt-to) - Stellt die Bundestags-Tagesordnung als iCal-Feed und API bereit.
+- 🇩🇪 [bund.dev](https://bund.dev/) - API-Portal mit OpenAPI-Dokumentationen zu über 30 Bundes-Schnittstellen. Verfügbar auf [GitHub](https://github.com/bundesAPI).
 
 ------------------------------
 
@@ -34,8 +34,8 @@ APIs und Schnittstellen für den programmgesteuerten Zugriff auf Bundestag-Daten
 
 Zugang zu Plenarprotokollen, Drucksachen und anderen parlamentarischen Dokumenten.
 
-- 🗣️ [Open Discourse](https://opendiscourse.de/) - Plattform zur Analyse der Plenarprotokolle des Deutschen Bundestages seit 1949. Macht über 800.000 Redebeiträge der letzten 70 Jahre maschinenlesbar und durchsuchbar für Bürger, Forscher und Entwickler. Open Source verfügbar auf [GitHub](https://github.com/open-discourse/open-discourse).
-- 📚 [sehrgutachten](https://sehrgutachten.de/) - Volltextsuche und Feeds für die Gutachten des Wissenschaftlichen Dienstes des Bundestags. Rails-Anwendung mit Elasticsearch, die alle Gutachten durchsuchbar macht und RSS-Feeds bereitstellt. Open Source verfügbar auf [GitHub](https://github.com/bundestag/sehrgutachten).
+- 🗣️ [Open Discourse](https://opendiscourse.de/) - Analyse der Plenarprotokolle seit 1949 mit über 800.000 durchsuchbaren Redebeiträgen. [GitHub](https://github.com/open-discourse/open-discourse).
+- 📚 [sehrgutachten](https://sehrgutachten.de/) - Volltextsuche für Gutachten des Wissenschaftlichen Dienstes. [GitHub](https://github.com/bundestag/sehrgutachten).
 
 ------------------------------
 
@@ -43,7 +43,7 @@ Zugang zu Plenarprotokollen, Drucksachen und anderen parlamentarischen Dokumente
 
 Profile, Abstimmungsverhalten und Kontaktmöglichkeiten zu Bundestagsabgeordneten.
 
-- 💬 [Abgeordnetenwatch](https://www.abgeordnetenwatch.de/) - Überparteiliche Plattform zum öffentlichen Befragen von Bundestagsabgeordneten. Zeigt Profile, Ausschussmitgliedschaften, Nebentätigkeiten und Abstimmungsverhalten sowie Recherchen zu Lobbyismus und Parteispenden. Träger ist der gemeinnützige Verein Parlamentwatch e.V.
+- 💬 [Abgeordnetenwatch](https://www.abgeordnetenwatch.de/) - Plattform zum öffentlichen Befragen von Abgeordneten mit Profilen, Abstimmungsverhalten und Nebentätigkeiten.
 
 ------------------------------
 
@@ -51,9 +51,9 @@ Profile, Abstimmungsverhalten und Kontaktmöglichkeiten zu Bundestagsabgeordnete
 
 Tools und interaktive Anwendungen zur Verfolgung und Visualisierung von Bundestagsaktivitäten.
 
-- 📜 [Bundestagszusammenfasser](https://bundestagszusammenfasser.de/) - Umfassendes Portal zur Verfolgung des Gesetzgebungsprozesses mit allen aktuellen Gesetzesentwürfen und deren Status. Nutzt die Open Data API des Bundestags, um Vorhaben vom Entwurf bis zur Abstimmung automatisch zu verfolgen. Füllt die Lücke des im Koalitionsvertrag versprochenen, aber nicht gelieferten digitalen Gesetzgebungsportals. Erstellt von Sabrina vom Parlamentsrevue-Podcast.
-- 🎥 [Open Parliament TV](https://openparliament.tv/?lang=de) - Interaktive Suchmaschine und Videoplattform für Parlamentsdebatten des Deutschen Bundestages. Macht Bundestagsdebatten durchsuchbar und zugänglich mit Videomitschnitten, Transkripten und Metadaten seit Oktober 2021. Open Source verfügbar auf [GitHub](https://github.com/OpenParliamentTV).
-- 🃏 [SPIEGEL-Kabinettsquartett](https://www.spiegel.de/politik/bundesregierung-das-sind-die-minister-spielen-sie-hier-das-spiegel-kabinettsquartett-a-01a9f48e-c59f-4d84-8457-dd5fc016ae03) - Interaktives Quartettspiel zur aktuellen Bundesregierung von DER SPIEGEL. Vergleicht Bundesminister nach Kategorien wie Regierungsjahren, Instagram-Followern und weiteren überraschenden Statistiken. Spielerische Darstellung politischer Karrieren und Popularität.
+- 📜 [Bundestagszusammenfasser](https://bundestagszusammenfasser.de/) - Portal zur Verfolgung des Gesetzgebungsprozesses mit Status aller aktuellen Gesetzesentwürfe.
+- 🎥 [Open Parliament TV](https://openparliament.tv/?lang=de) - Suchmaschine für Parlamentsdebatten mit Videomitschnitten und Transkripten. [GitHub](https://github.com/OpenParliamentTV).
+- 🃏 [SPIEGEL-Kabinettsquartett](https://www.spiegel.de/politik/bundesregierung-das-sind-die-minister-spielen-sie-hier-das-spiegel-kabinettsquartett-a-01a9f48e-c59f-4d84-8457-dd5fc016ae03) - Interaktives Quartettspiel zur Bundesregierung mit Vergleich der Minister.
 
 ------------------------------
 
@@ -61,8 +61,8 @@ Tools und interaktive Anwendungen zur Verfolgung und Visualisierung von Bundesta
 
 Ressourcen, Daten und Tools zu Bundestagswahlen.
 
-- 📊 [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/) - Offizielle Website der Bundeswahlleiterin mit Informationen zu Bundestagswahlen und Europawahlen. Organisiert und überwacht alle politischen Wahlen auf Bundesebene und stellt umfassende Wahlergebnisse, Statistiken und rechtliche Grundlagen bereit. Das Amt wird traditionell vom Präsidenten des Statistischen Bundesamtes ausgeübt.
-- 🗳️ [Linksammlungen zu Bundestagswahlen](https://github.com/tifa365/linksammlungen_bundestagswahlen) - Kuratierte Linksammlungen zu deutschen Bundestagswahlen mit Informationen, Daten, Tools und Ressourcen für Wähler, Journalisten und Datenanalysten. Enthält umfassende Sammlung zur Bundestagswahl 2025 mit Kategorien zu Wahlsystemen, Kandidaten, Umfragen und Analysetools.
+- 📊 [Bundeswahlleiterin](https://www.bundeswahlleiterin.de/) - Offizielle Wahlergebnisse, Statistiken und rechtliche Grundlagen zu Bundestagswahlen.
+- 🗳️ [Linksammlungen zu Bundestagswahlen](https://github.com/tifa365/linksammlungen_bundestagswahlen) - Kuratierte Sammlung zu Bundestagswahlen mit Daten, Tools und Ressourcen.
 
 ------------------------------
 
