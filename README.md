@@ -15,6 +15,7 @@ Etwas hinzuzufügen oder zu ändern? Öffne einen [Pull Request](../../pulls) od
 - [Abgeordnete](#abgeordnete)
 - [Visualisierungen & Tools](#visualisierungen--tools)
 - [Wahlen](#wahlen)
+- [Archiv 💤](ARCHIVE.md)
 
 ------------------------------
 
@@ -22,7 +23,10 @@ Etwas hinzuzufügen oder zu ändern? Öffne einen [Pull Request](../../pulls) od
 
 APIs und Schnittstellen für den programmgesteuerten Zugriff auf Bundestag-Daten.
 
+- 📂 [Bundestag Open Data](https://www.bundestag.de/services/opendata) - Offizielle Open-Data-Plattform des Bundestags mit Plenarprotokollen und Drucksachen ab der 1. Wahlperiode als XML/JSON, Biografiedaten aller Abgeordneten seit 1949 und Abstimmungslisten namentlicher Abstimmungen als Excel-Dateien.
+- 🔌 [DIP-API](https://dip.bundestag.de/%C3%BCber-dip/hilfe/api) - Offizielle API des Dokumentations- und Informationssystems für Parlamentsmaterialien (DIP). Lesender Zugriff auf Vorgänge, Aktivitäten, Personen, Drucksachen und Plenarprotokolle.
 - 📅 [BT-TO API](https://github.com/hutt/bt-to) - Cloudflare Worker, der die Tagesordnung des Bundestags von der Website abruft und als iCal-Feed und API bereitstellt. Löst das Problem, dass der Bundestag seine Tagesordnung nicht in maschinenlesbarem Format anbietet und ermöglicht Abgeordnetenbüros automatische Kalenderintegration.
+- 🇩🇪 [bund.dev](https://bund.dev/) - API-Portal des Bundes mit Dokumentationen zu über 30 Programmierschnittstellen von Verwaltungsleistungen und Informationsportalen. Dokumentationen im OpenAPI-3-Format, maschinen- und menschenlesbar. Zivilgesellschaftliches Beteiligungsverfahren ermöglicht aktive Mitarbeit. Verfügbar auf [GitHub](https://github.com/bundesAPI).
 
 ------------------------------
 
@@ -31,6 +35,7 @@ APIs und Schnittstellen für den programmgesteuerten Zugriff auf Bundestag-Daten
 Zugang zu Plenarprotokollen, Drucksachen und anderen parlamentarischen Dokumenten.
 
 - 🗣️ [Open Discourse](https://opendiscourse.de/) - Plattform zur Analyse der Plenarprotokolle des Deutschen Bundestages seit 1949. Macht über 800.000 Redebeiträge der letzten 70 Jahre maschinenlesbar und durchsuchbar für Bürger, Forscher und Entwickler. Open Source verfügbar auf [GitHub](https://github.com/open-discourse/open-discourse).
+- 📚 [sehrgutachten](https://sehrgutachten.de/) - Volltextsuche und Feeds für die Gutachten des Wissenschaftlichen Dienstes des Bundestags. Rails-Anwendung mit Elasticsearch, die alle Gutachten durchsuchbar macht und RSS-Feeds bereitstellt. Open Source verfügbar auf [GitHub](https://github.com/bundestag/sehrgutachten).
 
 ------------------------------
 
@@ -49,7 +54,6 @@ Tools und interaktive Anwendungen zur Verfolgung und Visualisierung von Bundesta
 - 📜 [Bundestagszusammenfasser](https://bundestagszusammenfasser.de/) - Umfassendes Portal zur Verfolgung des Gesetzgebungsprozesses mit allen aktuellen Gesetzesentwürfen und deren Status. Nutzt die Open Data API des Bundestags, um Vorhaben vom Entwurf bis zur Abstimmung automatisch zu verfolgen. Füllt die Lücke des im Koalitionsvertrag versprochenen, aber nicht gelieferten digitalen Gesetzgebungsportals. Erstellt von Sabrina vom Parlamentsrevue-Podcast.
 - 🎥 [Open Parliament TV](https://openparliament.tv/?lang=de) - Interaktive Suchmaschine und Videoplattform für Parlamentsdebatten des Deutschen Bundestages. Macht Bundestagsdebatten durchsuchbar und zugänglich mit Videomitschnitten, Transkripten und Metadaten seit Oktober 2021. Open Source verfügbar auf [GitHub](https://github.com/OpenParliamentTV).
 - 🃏 [SPIEGEL-Kabinettsquartett](https://www.spiegel.de/politik/bundesregierung-das-sind-die-minister-spielen-sie-hier-das-spiegel-kabinettsquartett-a-01a9f48e-c59f-4d84-8457-dd5fc016ae03) - Interaktives Quartettspiel zur aktuellen Bundesregierung von DER SPIEGEL. Vergleicht Bundesminister nach Kategorien wie Regierungsjahren, Instagram-Followern und weiteren überraschenden Statistiken. Spielerische Darstellung politischer Karrieren und Popularität.
-- 📊 [70 Jahre Bundestag - ZEIT ONLINE](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel) 🔒 - Grafische Analyse aller Bundestagsreden seit 1949 von ZEIT ONLINE. Ermöglicht die Erforschung von Themen und Sprachwandel über 70 Jahre deutscher Parlamentsgeschichte. **Hinweis:** Tool wurde mittlerweile abgeschaltet, Artikel verfügbar hinter Paywall.
 
 ------------------------------
 
@@ -82,4 +86,4 @@ Um einen neuen Eintrag hinzuzufügen:
 
 Diese Liste wird von der Community gepflegt und soll eine umfassende Ressource für alle sein, die sich für das Open-Data-Ökosystem des Deutschen Bundestags interessieren. Die Auflistung eines Projekts oder einer Ressource bedeutet keine Empfehlung.
 
-Zuletzt aktualisiert: 2025-11-03
+Zuletzt aktualisiert: 2025-12-05
