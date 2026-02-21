@@ -27,6 +27,7 @@ APIs und Schnittstellen für den programmgesteuerten Zugriff auf Bundestag-Daten
 - 🔌 [DIP-API](https://dip.bundestag.de/%C3%BCber-dip/hilfe/api) - Offizielle API für Parlamentsmaterialien mit Zugriff auf Vorgänge, Drucksachen und Plenarprotokolle.
 - 📅 [BT-TO API](https://github.com/hutt/bt-to) - Stellt die Bundestags-Tagesordnung als iCal-Feed und API bereit.
 - 🇩🇪 [bund.dev](https://bund.dev/) - API-Portal mit OpenAPI-Dokumentationen zu über 30 Bundes-Schnittstellen. Verfügbar auf [GitHub](https://github.com/bundesAPI).
+- 📝 [Bundestag ePetitionen API](https://github.com/tifa365/bundestagpetitionen-api) - Inoffizielle OpenAPI-Spezifikation und Python-Client für die ePetitionen-Plattform des Bundestags mit CLI und strukturiertem JSON-Export.
 
 ------------------------------
 

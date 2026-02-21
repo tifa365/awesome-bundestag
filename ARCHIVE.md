@@ -6,6 +6,12 @@ Zurück zur [Hauptliste](README.md).
 
 ------------------------------
 
+## Meta
+
+- 🗂️ [github.com/bundestag](https://github.com/bundestag) - Meta-Repository mit Code rund um den Bundestag. Sammelt Forks und eigene Projekte zu Gesetzen, Parlamentsdaten und Scraper.
+
+------------------------------
+
 ## APIs & Datenquellen
 
 - 📂 [dip21-daten](https://github.com/bundestag/dip21-daten) - Scraper für das Dokumentations- und Informationssystem für Parlamentarische Vorgänge (DIP) des Bundestags. Wird durch die offizielle [DIP-API](https://github.com/bundesAPI/dip-bundestag-api) ersetzt.
@@ -22,6 +28,8 @@ Zurück zur [Hauptliste](README.md).
 
 ## Visualisierungen & Tools
 
+- 📊 [AfD im Bundestag](https://github.com/sueddeutsche/afd-im-bundestag) - Datenanalyse der Bundestagsprotokolle durch die Süddeutsche Zeitung (2018). Untersucht Beifall, Zwischenrufe und Reaktionen zwischen Fraktionen.
+- 🗳️ [Bundestag Voting Pattern](https://github.com/jmbh/bundestag) - R-Code zur Visualisierung des Abstimmungsverhaltens im Bundestag.
 - 💰 [Offener Haushalt](https://offenerhaushalt.de/) - Visualisierung von Haushaltsdaten auf Bundes-, Landes- und Kommunalebene (2011-2016).
 - 🏛️ [OffenesParlament.de](https://offenesparlament.de/) - Legislative Tracker für Bundestag und Bundesrat. [GitHub](https://github.com/bundestag/offenesparlament.de).
 - 📊 [70 Jahre Bundestag - ZEIT ONLINE](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel) - Analyse aller Bundestagsreden seit 1949. Tool abgeschaltet, Artikel hinter Paywall.
